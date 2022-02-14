@@ -1,0 +1,2 @@
+build:
+	gcc -o raytracer.exe simpleTexture.cpp Raytracer.cpp
